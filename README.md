@@ -1,0 +1,1 @@
+It is a tool that displays the step-by-step process of sorting elements using bubble sort. It typically features a visual representation of an array and color coding to illustrate the rearrange elements. Users can interact with control buttons, adjust animation speed, and observe performance metrics for educational purposes or algorithmic comparisons.
